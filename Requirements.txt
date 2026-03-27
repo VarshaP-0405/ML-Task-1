@@ -1,0 +1,4 @@
+scikit-learn → for Linear Regression model
+pandas → data handling
+numpy → numerical operations
+matplotlib → plotting graphs
